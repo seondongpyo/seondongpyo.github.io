@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Slow Starter"
+title                    : "느리지만 꾸준히"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Seondong Pyo"
-description              : "아직 늦지 않았다고 믿는 개발자"
+description              : "Java & Backend Developer"
 url                      : "https://seondongpyo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "seondongpyo/blog-comments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Seondong Pyo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "아직 늦지 않았다고 믿는 개발자"
+  bio              : "Java & Backend Developer"
   location         : 
   email            : 
   links:
