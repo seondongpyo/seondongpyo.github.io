@@ -1,0 +1,17 @@
+Seondong Pyo:
+  name        : "Seongon Pyo"
+  bio         : "Java & Backend Developer"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:seondongpyo@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/seondongpyo"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: # "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: # "https://twitter.com/extravagantman"
