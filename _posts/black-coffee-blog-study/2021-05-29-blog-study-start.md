@@ -7,7 +7,7 @@ categories:
 tags:
   - Blog
   - 생각 정리
-last_modified_at: 2021-05-16T23:41:00
+last_modified_at: 2021-05-30T23:00:00
 --- 
 
 ## Q1. 블랙커피 스터디, 왜 시작했어요?
