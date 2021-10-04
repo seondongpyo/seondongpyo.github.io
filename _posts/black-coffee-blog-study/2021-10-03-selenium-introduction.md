@@ -20,7 +20,7 @@ Selenium은 2004년 Jason Huggins에 의해 만들어지기 시작했습니다.
 그리고 이 JavascriptTestRunner가 오픈 소스화 되어 이름이 Selenium으로 변경되었습니다.  
 
 Selenium은 오픈 소스 테스트 자동화 프레임워크로, 다양한 웹 브라우저와 플랫폼에서 웹 애플리케이션을 테스트할 수 있는 기술입니다.
-직접 사용해 본 적은 없지만, JavaScript를 기반으로 개발된 Cypress라는 기술과 동일하다고 볼 수 있는데요.  
+직접 사용해 본 적은 없지만, JavaScript를 기반으로 개발된 Cypress라는 기술과 비슷하다고 볼 수 있는데요.  
 사용할 수 있는 언어는 Java, JavaScript, C#, Python, PHP, Ruby, Perl 등 정말 다양합니다.  
 
 이번 포스팅에서는 Selenium을 소개하는 정도로만 하고 마치려고 했지만,  
