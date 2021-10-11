@@ -22,7 +22,7 @@ IntellJ IDEA에서 [New Project]를 선택하고 Maven 프로젝트를 생성합
 Java 버전은 1.8 이상으로 선택하시면 되겠습니다.  
 
 <center>
-  <img src="/assets/image/new_project.png" width="70%" height="70%"/>
+  <img src="/assets/image/new_project.jpg" width="70%" height="70%"/>
 </center>
 <br>
 
@@ -30,7 +30,7 @@ Java 버전은 1.8 이상으로 선택하시면 되겠습니다.
 여기서는 **'selenium-tutorial'**로 하겠습니다.  
 
 <center>
-  <img src="/assets/image/artifact.png" width="70%" height="70%"/>
+  <img src="/assets/image/artifact.jpg" width="70%" height="70%"/>
 </center>
 <br>
 
@@ -107,7 +107,7 @@ driver.get("https://www.google.com"); // 해당 URL로 이동합니다.
 특정 엘리먼트에 접근하기 위해서 브라우저의 개발자 도구를 열어봅시다.  
 
 <center>
-  <img src="/assets/image/dev_tool.png" width="100%" height="100%"/>
+  <img src="/assets/image/dev_tool.jpg" width="100%" height="100%"/>
 </center>
 <br>
 
